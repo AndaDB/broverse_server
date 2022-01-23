@@ -1,5 +1,5 @@
 # multiplayer_server
-Sample multiplayer nodeJS server for 3D games
+Sample metaverse nodeJS server for 3D games
 
 server.js is the main file.
 
