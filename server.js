@@ -1,6 +1,6 @@
 //Server
 const WebSocket = require('ws');
-const server = new WebSocket.Server({ host: '0.0.0.0', port: 5000 }, () => {
+const server = new WebSocket.Server({ host: '3.209.172.72', port: 5000 }, () => {
     console.log(`${new Date().toLocaleString()} - Listening on port 5000...`);
 });
 server.on('connection', (ws, req) => {
