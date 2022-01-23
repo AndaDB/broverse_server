@@ -2,7 +2,7 @@
   "name": "broverse",
   "version": "0.0.1",
   "description": "Broverse server",
-  "main": "securreserver.js",
+  "main": "secureserver.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
