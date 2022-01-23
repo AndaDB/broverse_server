@@ -1,4 +1,4 @@
-# multiplayer_server
+# metaverse_server
 Sample metaverse nodeJS server for 3D games
 
 server.js is the main file.
