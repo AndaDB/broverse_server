@@ -3,6 +3,8 @@ Sample metaverse nodeJS server for 3D games
 
 server.js is the main file.
 
+git clone https://github.com/AndaDB/broverse_server.git
+
 To set this environment up:
 ```
 npm init
